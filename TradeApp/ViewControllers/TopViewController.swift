@@ -12,7 +12,7 @@ class TopViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        view.backgroundColor = .lightGray
+        view.backgroundColor = .systemGray
     }
     
 

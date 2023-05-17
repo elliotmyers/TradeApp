@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  TopViewController.swift
 //  TradeApp
 //
 //  Created by Raiden Yamato on 13.05.2023.
@@ -7,13 +7,15 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class TopViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
 
+        view.backgroundColor = .lightGray
+    }
+    
+
+   
 
 }
-
